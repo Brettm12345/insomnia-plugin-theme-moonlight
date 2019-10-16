@@ -1,0 +1,26 @@
+{
+  "author": "brettm12345",
+  "bugs": {
+    "url": "https://github.com/brettm12345/insomnia-plugin-theme-moonlight/issues"
+  },
+  "description": "Moonlight theme for insomnia rest client",
+  "homepage": "https://github.com/brettm12345/insomnia-plugin-theme-moonlight#readme",
+  "insomnia": {
+    "description": "Moonlight",
+    "name": "Moonlight"
+  },
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "theme",
+    "moonlight"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "insomnia-plugin-theme-moonlight",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettm12345/insomnia-plugin-theme-moonlight.git"
+  },
+  "version": "1.0.0"
+}
